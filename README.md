@@ -645,6 +645,7 @@ Websites with lists of relays and their performance/health:
 - [nip06-cli](https://github.com/jaonoctus/nip06-cli)![stars](https://img.shields.io/github/stars/jaonoctus/nip06-cli.svg?style=social) - a Node.js CLI to generate or restore NIP-06 seed phrases
 - [nip06-web](https://github.com/jaonoctus/nip06-web)![stars](https://img.shields.io/github/stars/jaonoctus/nip06-web.svg?style=social) - a website to generate or restore NIP-06 seed phrases
   - [nip06.jaonoct.us](https://nip06.jaonoct.us) - by jaonoctus
+- [NIP-99 Listing Preflight](https://softpeanut.github.io/shopstr-listing-benchmark/) - Checks classified-listing JSON locally for common metadata and accidental contact or location exposure. [⚡ zap](https://nostr.net/grant/?zap=softpeanut@stacker.news)
 - [NIPF](https://github.com/nextdebug/nipf)![stars](https://img.shields.io/github/stars/nextdebug/nipf.svg?style=social) - A Python facilities manager for NOSTR ecosystem.
 - [njump](https://github.com/fiatjaf/njump)![stars](https://img.shields.io/github/stars/fiatjaf/njump.svg?style=social) - a nostr static gateway, it displays notes and other stuff from inside nostr as HTML with previews.
 - [nkcli](https://github.com/mdzz-club/nkcli)![stars](https://img.shields.io/github/stars/mdzz-club/nkcli.svg?style=social) - A CLI tool for nostr key manage and serve NIP-46.
