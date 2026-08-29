@@ -270,7 +270,7 @@ Websites with lists of relays and their performance/health:
 - [gossip](https://github.com/mikedilger/gossip)![stars](https://img.shields.io/github/stars/mikedilger/gossip.svg?style=social) - A desktop client in rust presented with egui
 - [Groups](https://github.com/max21dev/groups)![stars](https://img.shields.io/github/stars/max21dev/groups.svg?style=social) - NIP-29 Group Chat Web Client.
   - Live Instance: [groups.nip29.com](https://groups.nip29.com)
-- [GUPT](https://github.com/besoeasy/gupt)![stars](https://img.shields.io/github/stars/besoeasy/gupt.svg?style=social) - Anonymous Nostr messenger & privacy suite: E2E chat, P2P video/audio calls, screen sharing, encrypted passwords/notes/bookmarks. No phone, email or accounts.
+- [GUPT](https://github.com/besoeasy/gupt)![stars](https://img.shields.io/github/stars/besoeasy/gupt.svg?style=social) - Anonymous Nostr messenger & privacy suite: E2E chat, P2P video/audio calls, screen sharing, encrypted passwords/notes/bookmarks.
   - [gupt.app](https://gupt.app/) - live instance
   - [Flatpak](https://flathub.org/en/apps/com.besoeasy.gupt) - Linux desktop app
 - [Hook Cafe](https://github.com/kuba-04/hook.cafe)![stars](https://img.shields.io/github/stars/kuba-04/hook.cafe.svg?style=social) - A social app helping people to meet in real life
