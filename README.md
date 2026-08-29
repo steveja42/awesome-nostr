@@ -147,7 +147,6 @@ of the public instances.
 Websites with lists of relays and their performance/health:
 - [georelays](https://github.com/permissionlesstech/georelays)![stars](https://img.shields.io/github/stars/permissionlesstech/georelays.svg?style=social) - A collection of nostr relays and their estimated geographic locations for discovering nearby relays.
 - [relay.nostr.net](wss://relay.nostr.net) - relay run by nostr.net 
-- [relay.libernet.app](wss://relay.libernet.app) - open public Nostr relay by LiberNet, operated from Israel [⚡ zap](https://nostr.net/grant/?zap=barak@blink.sv)
 - [nostr.info](https://nostr.info/relays/) - real-time checking of the status of some known relays.
 - [nostr.watch](https://nostr.watch)![stars](https://img.shields.io/github/stars/sandwichfarm/nostr-watch.svg?style=social) - real-time checking of the status of some known relays.
 - [relays.xport.top](https://relays.xport.top) - relays list sortable by ping, activity, etc.
@@ -207,8 +206,8 @@ Websites with lists of relays and their performance/health:
 - [Pika](https://github.com/sledtools/pika)![stars](https://img.shields.io/github/stars/sledtools/pika.svg?style=social) -  End-to-end encrypted messaging for iOS, Android, and Desktop, built on MLS over Nostr.
 - [Zemzeme](https://github.com/whisperbit-labs/zemzeme-android)![stars](https://img.shields.io/github/stars/whisperbit-labs/zemzeme-android.svg?style=social) - Private, serverless messaging for Android — offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required
 - [VaultChat](https://vaultchat.pro) - Encrypted Android messenger built on Nostr. NIP-44 v2, groups, Decoy PIN. No phone number, no email, no server.
-- [LiberMedia](https://media.libernet.app)![stars](https://img.shields.io/github/stars/lucianocasalunga/libermedia-twa.svg?style=social) - Open-source Nostr social network with Bitcoin/Lightning zaps, DMs, media and groups. Android + Web. [⚡ zap](https://nostr.net/grant/?zap=barak@blink.sv)
-- [Makoré](https://makore.libernet.app)![stars](https://img.shields.io/github/stars/lucianocasalunga/makore-twa.svg?style=social) - End-to-end encrypted Nostr messenger with NIP-17/NIP-44 DMs, group chats and Bitcoin/Lightning gifts. Android + Web. [⚡ zap](https://nostr.net/grant/?zap=barak@blink.sv)
+- [LiberMedia](https://media.libernet.app)![stars](https://img.shields.io/github/stars/lucianocasalunga/libermedia-twa.svg?style=social) - Android + Web client with zaps, DMs, media and groups. [⚡ zap](https://nostr.net/grant/?zap=barak@blink.sv)
+- [Makoré](https://makore.libernet.app)![stars](https://img.shields.io/github/stars/lucianocasalunga/makore-twa.svg?style=social) - End-to-end encrypted messenger with NIP-17/NIP-44 DMs, group chats and zaps. Android + Web. [⚡ zap](https://nostr.net/grant/?zap=barak@blink.sv)
 
 ### Other  
 - [Agora](https://agorasocial.app) ![stars](https://img.shields.io/github/stars/ghobs91/agora.svg?style=social) - Follow your favorite topics in nostr-verse (and even posts from Mastodon, Reddit, Bluesky, and Twitter)
