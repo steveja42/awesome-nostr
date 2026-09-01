@@ -619,6 +619,7 @@ Websites with lists of relays and their performance/health:
 - [Contact list backup](https://nostr.xport.top/contact-list-backup/) - Backup and restore your contacts
 - [FMD (Find my device)](https://gitlab.com/Kalle/fmd-android/-/tree/nostr-marmot?ref_type=heads) - Find your device and control it remotely. Works over Marmot (Nostr), SMS, instant messengers, or FMD Server's web interface. A secure open source alternative to Google's Find Hub. This is a fork of [FMD Android](https://gitlab.com/fmd-foss/fmd-android).
 - [following.space](https://github.com/callebtc/following.space)![stars](https://img.shields.io/github/stars/callebtc/following.space.svg?style=social) - create and explore follow packs for nostr, find lists of users to follow
+- [fount](https://github.com/steve02081504/fount)![stars](https://img.shields.io/github/stars/steve02081504/fount.svg?style=social) - A programmable AI agent runtime that federates peers over Nostr relays (as a fallback P2P transport for LAN, Bluetooth and WebRTC).
 - [Ghostr](https://ghostr.org/)![stars](https://img.shields.io/github/stars/dmnyc/ghostr.svg?style=social) - Dead simple post delegation workflow for Nostr. Writers draft, publishers sign. No scary key sharing required.
   - [GitHub](https://github.com/dmnyc/ghostr) - source code
 - [git-nostr-tools](http://git.jb55.com/git-nostr-tools) - A cli tool for sending code patches over nostr
